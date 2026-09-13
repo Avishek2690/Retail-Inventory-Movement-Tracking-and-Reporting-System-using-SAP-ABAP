@@ -86,7 +86,7 @@
 
 The SmartForm is designed with a structured layout, dynamic table generation, and formatted output for easy readability. Additional features such as total amount calculation, print preview, and customized report formatting were implemented to enhance the reporting process and provide accurate business documentation.</p>
 <p>
-  <a href="https://github.com/sure-trust/AVISHEK-KUMAR-CHOURASIYA-g4-sap-abap/blob/14b5eeaf77db5fc4ccd72c15a9a2cd3a2ec9b29f/Final%20capstone%20project/SURE%20Trust%20project%20REPORT%20(final%20).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Avishek2690/Retail-Inventory-Movement-Tracking-and-Reporting-System-using-SAP-ABAP/blob/0f502df9b47a933419c3c34f08cf5f141e8645fc/SURE%20Trust%20project%20REPORT%20(final%20).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
@@ -97,7 +97,7 @@ The SmartForm is designed with a structured layout, dynamic table generation, an
 Users can interact with the report through drill-down functionality, allowing them to navigate from header data to detailed item records. Additional features include customized ALV layout, sorting, filtering, and a custom toolbar button for exporting report data to Excel, providing an efficient and user-friendly reporting solution.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/AVISHEK-KUMAR-CHOURASIYA-g4-sap-abap/blob/14b5eeaf77db5fc4ccd72c15a9a2cd3a2ec9b29f/Final%20capstone%20project/SURE%20Trust%20project%20REPORT%20(final%20).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Avishek2690/Retail-Inventory-Movement-Tracking-and-Reporting-System-using-SAP-ABAP/blob/0f502df9b47a933419c3c34f08cf5f141e8645fc/SURE%20Trust%20project%20REPORT%20(final%20).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
