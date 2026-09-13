@@ -157,7 +157,7 @@ During my internship period, I actively participated in community service activi
 <img src="https://github.com/Avishek2690/Retail-Inventory-Movement-Tracking-and-Reporting-System-using-SAP-ABAP/blob/630e8497ee8c2f739985137168d50daec1d48943/blood1.jpeg"
     alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/Avishek2690/Retail-Inventory-Movement-Tracking-and-Reporting-System-using-SAP-ABAP/blob/630e8497ee8c2f739985137168d50daec1d48943/plant1.jpeg" alt="Community Service Photo 2" width="30%">
-<img src="https://github.com/sure-trust/AVISHEK-KUMAR-CHOURASIYA-g4-sap-abap/blob/ae217e45a460b3a62805b5034306d2fbfdcbaf02/serve1.jpeg"
+<img src="https://github.com/Avishek2690/Retail-Inventory-Movement-Tracking-and-Reporting-System-using-SAP-ABAP/blob/8d9f5d4a05ee09d9e75c7c3d47ea52e99d815c66/serve1.jpeg"
     alt="Community Service Photo 3" width="30%">
 </div>
 
